@@ -1,0 +1,48 @@
+#div0 {
+background-color: white;
+            height: 1000px;
+			width: 1200px;
+			margin: auto;
+}
+body { 
+  background:gray;
+  margin: 0px;
+ }
+#div1 {
+text-align: center;
+background-color: gray;
+}
+h2 {
+color: red;
+}
+i {
+color: blue;
+font-size: 20px;
+}
+#div2 {
+height: 950px;
+			width: 1100px;
+			margin: auto;
+}
+#div3 {
+float: left;
+text-align: center;
+height: 800px;
+			width: 360px;
+			margin: auto;
+}
+#div4{
+float: center;
+text-align: center;
+height: 800px;
+			width: 360px;
+			margin: auto;
+}
+#div5{
+float: right;
+text-align: center;
+height: 800px;
+			width: 360px;
+			margin: auto;
+
+}
